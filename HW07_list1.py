@@ -59,7 +59,7 @@ def front_x(words):
 def sort_last(tuples):
 	x = sorted(tuples, key = tuples[-1])
 	return x
-
+ 
 
 # Simple provided test() function used in main() to print
 # what each function returns vs. what it's supposed to return.
